@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pibby Peter Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-140
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pibby Peter Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-140
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pibby Peter Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pibby Peter Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pibby Peter Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pibby Peter",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Pibby Peter",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		127,
+		0
+	],
+	"camera_position": [
+		-510,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

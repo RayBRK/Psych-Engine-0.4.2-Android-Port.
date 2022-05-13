@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-130,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bs idle"
+		},
+		{
+			"offsets": [
+				-160,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bsdown"
+		},
+		{
+			"offsets": [
+				-140,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bs left"
+		},
+		{
+			"offsets": [
+				-80,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bs right"
+		},
+		{
+			"offsets": [
+				-130,
+				130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bs up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Stewie and Brian",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		60,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
