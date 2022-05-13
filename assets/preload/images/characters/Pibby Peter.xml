@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pibby Peter.png"><SubTexture name="Pibby Peter Idle0000" x="0" y="0" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Idle0001" x="839" y="0" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Idle0002" x="1678" y="0" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Idle0003" x="2517" y="0" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Idle0004" x="3356" y="0" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Idle0005" x="0" y="511" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Idle0006" x="839" y="511" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Idle0007" x="1678" y="511" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Idle0008" x="2517" y="511" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Up0000" x="3356" y="511" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Up0001" x="0" y="1022" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Up0002" x="839" y="1022" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Up0003" x="1678" y="1022" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Down0000" x="2517" y="1022" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Down0001" x="3356" y="1022" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Down0002" x="0" y="1533" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Down0003" x="839" y="1533" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Down0004" x="1678" y="1533" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Left0000" x="2517" y="1533" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Left0001" x="3356" y="1533" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Left0002" x="0" y="2044" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Left0003" x="839" y="2044" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Right0000" x="1678" y="2044" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Right0001" x="2517" y="2044" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Right0002" x="3356" y="2044" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+<SubTexture name="Pibby Peter Right0003" x="0" y="2555" width="839" height="511" frameX="0" frameY="0" frameWidth="839" frameHeight="511" />
+</TextureAtlas>
